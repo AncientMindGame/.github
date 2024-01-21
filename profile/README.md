@@ -41,19 +41,20 @@ Platforms: Windows, MacOS, Linux, Android
 
 ## About the game
 
-Explore a region of mystery and danger in Ancient Mind, a modern take on the classic zelda-like top-down action adventure. Explore dungeons, fight monsters, solve puzzles, and discover the truth about ancient legends.
+Ancient Mind is a Zelda-inspired action-adventure game about exploring a region full of ruins where an ancient civilization once lived.
 
-![Page-1](img/page-1.png)
+The game follows a classic level-based structure where every levels can be selected from the world map.
+New levels can be unlocked by completing the previous ones or by finding secret exits.
+Every level can be replayed an indefinite amount of times.
 
-This game will put your spacial awareness to the test with a sequence of environmental puzzles, levels characterized by a non-linear structure made of keys and locks, dungeons full of monsters, traps, and riddles. Even with a map, you will still need to pay close attention to your surroundings if you want to find your way to the end safe and sound.
+Finding all secrets is not required to finish the levels, but finding all chests will reward the player with a gem at the end of the level that will be needed to unlock some paths to progress in the game.
 
-![Page-2](img/page-2.png)
+### Key features
 
-Ancient Mind is a modern take on the classic top-down action adventure. Fight monsters with your sword and use tools such as a grappling hook and torches to overcome obstacles and reach new areas. Items like bows and arrows are not only useful in combat, but also for triggering mechanisms in ancient temples. You will find new items as you progress into the game, unlocking paths even in already explored areas.
-
-![Page-3](img/page-3.png)
-
-Legends tell many stories about these lands, stories about an uncertain past. This region was once inhabited by an ancient civilization that now appears to have vanished into thin air, leaving behind nothing but ruins. Will you find the answers you're looking for? There might be clues behind every corner.
+* A sequence of levels, referred to as "Dungeons", characterized by a non-linear structure. Getting to the end requires a good spatial awareness.
+* Top-down 2d exploration that also makes use of the third dimension.
+* Several puzzles to solve in every level to unlock new paths (and sometimes block off others).
+* An intriguing story told not through dialogues, but through hidden clues and environmental storytelling.
 
 ## Graphical assets
 
