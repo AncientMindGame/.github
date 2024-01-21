@@ -79,4 +79,4 @@ Legends tell many stories about these lands, stories about an uncertain past. Th
 
 ## Download press kit
 
-Click here to download Ancient Mind's press kit as a `.zip` file.
+Click [here](https://github.com/AncientMindGame/.github/archive/refs/heads/main.zip) to download Ancient Mind's press kit as a `.zip` file.
