@@ -78,6 +78,16 @@ Finding all secrets is not required to finish the levels, but finding all chests
 
 ![Main-character](img/main-character.png)
 
+### Steam Next Fest promo images
+
+![Steam-Next-Fest](img/steam-next-fest-promo.png)
+
+![Steam-Next-Fest-IT](img/steam-next-fest-promo-ita.png)
+
+![Steam-Next-Fest-DE](img/steam-next-fest-promo-deu.png)
+
+![Steam-Next-Fest-Short](img/steam-next-fest-promo-short.png)
+
 ## Download press kit
 
 Click [here](https://github.com/AncientMindGame/.github/archive/refs/heads/main.zip) to download Ancient Mind's press kit as a `.zip` file.
