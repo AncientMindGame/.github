@@ -10,6 +10,8 @@ Explore a region of mystery and danger in Ancient Mind, a modern take on the cla
 
 Developer: [HexagonNico](https://hexagonnico.github.io)
 
+Characters art by [Snow](https://twitter.com/snowdowo)
+
 Planned release date: November 2024
 
 Platforms: Windows, MacOS, Linux, Android
