@@ -74,9 +74,19 @@ Finding all secrets is not required to finish the levels, but finding all chests
 
 ![Header-capsule](img/header-capsule.png)
 
-### Main character
+### Library capsule
 
-![Main-character](img/main-character.png)
+![Library-capsule](img/library-capsule.png)
+
+### Small capsule
+
+![Small-capsule](img/small-capsule.png)
+
+### Characters
+
+![Character-sprite](img/character-sprite.png)
+
+![Characters-art](img/characters-art.png)
 
 ### Steam Next Fest promo images
 
