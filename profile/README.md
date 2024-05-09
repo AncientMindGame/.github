@@ -21,6 +21,7 @@ Platforms: Windows, MacOS, Linux, Android
 * [Screenshots](#screenshots)
 * [About the game](#about-the-game)
 * [Graphical assets](#graphical-assets)
+* [Trailers](#trailers)
 * [Download press kit](#download-press-kit)
 
 ## Screenshots
@@ -99,6 +100,12 @@ Finding all secrets is not required to finish the levels, but finding all chests
 ![Steam-Next-Fest-DE](img/steam-next-fest-promo-deu.png)
 
 ![Steam-Next-Fest-Short](img/steam-next-fest-promo-short.png)
+
+## Trailers
+
+* Game reveal teaser (18 December 2022) - [Youtube](https://www.youtube.com/watch?v=u82zEPHnpls)
+* First demo trailer (4 April 2023) - [Youtube](https://www.youtube.com/watch?v=MSd1eGzXrYs)
+* Steam Next Fest trailer (8 December 2023) - [Youtube](https://www.youtube.com/watch?v=luqlCHRiCNg)
 
 ## Download press kit
 
