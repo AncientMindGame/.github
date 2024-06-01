@@ -28,21 +28,21 @@ Platforms: Windows, MacOS, Linux, Android
 
 ## Screenshots
 
-![Screenshot-1](./screenshot-1.png)
+![Screenshot-1](images/screenshot-1.png)
 
-![Screenshot-2](./screenshot-2.png)
+![Screenshot-2](images/screenshot-2.png)
 
-![Screenshot-3](./screenshot-3.png)
+![Screenshot-3](images/screenshot-3.png)
 
-![Screenshot-4](./screenshot-4.png)
+![Screenshot-4](images/screenshot-4.png)
 
-![Screenshot-5](./screenshot-5.png)
+![Screenshot-5](images/screenshot-5.png)
 
-![Screenshot-6](./screenshot-6.png)
+![Screenshot-6](images/screenshot-6.png)
 
-![Screenshot-7](./screenshot-7.png)
+![Screenshot-7](images/screenshot-7.png)
 
-![Screenshot-8](./screenshot-8.png)
+![Screenshot-8](images/screenshot-8.png)
 
 ## About the game
 
@@ -93,47 +93,47 @@ Hidden throughout the world are several clues that will give the player addition
 
 ### Logo
 
-![Logo](./logo.png)
+![Logo](images/logo.png)
 
-![Upscaled logo](./logo-upscaled.png)
+![Upscaled logo](images/logo-upscaled.png)
 
-![Rainbow logo](./logo-rainbow-upscaled.png)
+![Rainbow logo](images/logo-rainbow-upscaled.png)
 
 ### Wide cover
 
-![Wide-cover](./wide-cover.png)
+![Wide-cover](images/wide-cover.png)
 
 ### Main capsule
 
-![Main-capsule](./main-capsule.png)
+![Main-capsule](images/main-capsule.png)
 
 ### Header capsule
 
-![Header-capsule](./header-capsule.png)
+![Header-capsule](images/header-capsule.png)
 
 ### Library capsule
 
-![Library-capsule](./library-capsule.png)
+![Library-capsule](images/library-capsule.png)
 
 ### Small capsule
 
-![Small-capsule](./small-capsule.png)
+![Small-capsule](images/small-capsule.png)
 
 ### Characters
 
-![Character-sprite](./character-sprite.png)
+![Character-sprite](images/character-sprite.png)
 
-![Characters-art](./characters-art.png)
+![Characters-art](images/characters-art.png)
 
 ### Steam Next Fest promo images
 
-![Steam-Next-Fest](./steam-next-fest-promo.png)
+![Steam-Next-Fest](images/steam-next-fest-promo.png)
 
-![Steam-Next-Fest-IT](./steam-next-fest-promo-ita.png)
+![Steam-Next-Fest-IT](images/steam-next-fest-promo-ita.png)
 
-![Steam-Next-Fest-DE](./steam-next-fest-promo-deu.png)
+![Steam-Next-Fest-DE](images/steam-next-fest-promo-deu.png)
 
-![Steam-Next-Fest-Short](./steam-next-fest-promo-short.png)
+![Steam-Next-Fest-Short](images/steam-next-fest-promo-short.png)
 
 ## Trailers
 
