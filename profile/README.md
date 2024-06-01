@@ -28,21 +28,21 @@ Platforms: Windows, MacOS, Linux, Android
 
 ## Screenshots
 
-![Screenshot-1](img/screenshot-1.png)
+![Screenshot-1](./screenshot-1.png)
 
-![Screenshot-2](img/screenshot-2.png)
+![Screenshot-2](./screenshot-2.png)
 
-![Screenshot-3](img/screenshot-3.png)
+![Screenshot-3](./screenshot-3.png)
 
-![Screenshot-4](img/screenshot-4.png)
+![Screenshot-4](./screenshot-4.png)
 
-![Screenshot-5](img/screenshot-5.png)
+![Screenshot-5](./screenshot-5.png)
 
-![Screenshot-6](img/screenshot-6.png)
+![Screenshot-6](./screenshot-6.png)
 
-![Screenshot-7](img/screenshot-7.png)
+![Screenshot-7](./screenshot-7.png)
 
-![Screenshot-8](img/screenshot-8.png)
+![Screenshot-8](./screenshot-8.png)
 
 ## About the game
 
@@ -93,43 +93,47 @@ Hidden throughout the world are several clues that will give the player addition
 
 ### Logo
 
-![Logo](img/logo.png)
+![Logo](./logo.png)
+
+![Upscaled logo](./logo-upscaled.png)
+
+![Rainbow logo](./logo-rainbow-upscaled.png)
 
 ### Wide cover
 
-![Wide-cover](img/wide-cover.png)
+![Wide-cover](./wide-cover.png)
 
 ### Main capsule
 
-![Main-capsule](img/main-capsule.png)
+![Main-capsule](./main-capsule.png)
 
 ### Header capsule
 
-![Header-capsule](img/header-capsule.png)
+![Header-capsule](./header-capsule.png)
 
 ### Library capsule
 
-![Library-capsule](img/library-capsule.png)
+![Library-capsule](./library-capsule.png)
 
 ### Small capsule
 
-![Small-capsule](img/small-capsule.png)
+![Small-capsule](./small-capsule.png)
 
 ### Characters
 
-![Character-sprite](img/character-sprite.png)
+![Character-sprite](./character-sprite.png)
 
-![Characters-art](img/characters-art.png)
+![Characters-art](./characters-art.png)
 
 ### Steam Next Fest promo images
 
-![Steam-Next-Fest](img/steam-next-fest-promo.png)
+![Steam-Next-Fest](./steam-next-fest-promo.png)
 
-![Steam-Next-Fest-IT](img/steam-next-fest-promo-ita.png)
+![Steam-Next-Fest-IT](./steam-next-fest-promo-ita.png)
 
-![Steam-Next-Fest-DE](img/steam-next-fest-promo-deu.png)
+![Steam-Next-Fest-DE](./steam-next-fest-promo-deu.png)
 
-![Steam-Next-Fest-Short](img/steam-next-fest-promo-short.png)
+![Steam-Next-Fest-Short](./steam-next-fest-promo-short.png)
 
 ## Trailers
 
