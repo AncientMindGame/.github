@@ -93,47 +93,47 @@ Hidden throughout the world are several clues that will give the player addition
 
 ### Logo
 
-![Logo](images/logo.png)
+![Logo](../images/logo.png)
 
-![Upscaled logo](images/logo-upscaled.png)
+![Upscaled logo](../images/logo-upscaled.png)
 
-![Rainbow logo](images/logo-rainbow-upscaled.png)
+![Rainbow logo](../images/logo-rainbow-upscaled.png)
 
 ### Wide cover
 
-![Wide-cover](images/wide-cover.png)
+![Wide-cover](../images/wide-cover.png)
 
 ### Main capsule
 
-![Main-capsule](images/main-capsule.png)
+![Main-capsule](../images/main-capsule.png)
 
 ### Header capsule
 
-![Header-capsule](images/header-capsule.png)
+![Header-capsule](../images/header-capsule.png)
 
 ### Library capsule
 
-![Library-capsule](images/library-capsule.png)
+![Library-capsule](../images/library-capsule.png)
 
 ### Small capsule
 
-![Small-capsule](images/small-capsule.png)
+![Small-capsule](../images/small-capsule.png)
 
 ### Characters
 
-![Character-sprite](images/character-sprite.png)
+![Character-sprite](../images/character-sprite.png)
 
-![Characters-art](images/characters-art.png)
+![Characters-art](../images/characters-art.png)
 
 ### Steam Next Fest promo images
 
-![Steam-Next-Fest](images/steam-next-fest-promo.png)
+![Steam-Next-Fest](../images/steam-next-fest-promo.png)
 
-![Steam-Next-Fest-IT](images/steam-next-fest-promo-ita.png)
+![Steam-Next-Fest-IT](../images/steam-next-fest-promo-ita.png)
 
-![Steam-Next-Fest-DE](images/steam-next-fest-promo-deu.png)
+![Steam-Next-Fest-DE](../images/steam-next-fest-promo-deu.png)
 
-![Steam-Next-Fest-Short](images/steam-next-fest-promo-short.png)
+![Steam-Next-Fest-Short](../images/steam-next-fest-promo-short.png)
 
 ## Trailers
 
