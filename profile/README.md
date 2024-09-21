@@ -44,6 +44,12 @@ Platforms: Windows, MacOS, Linux, Android
 
 ![Screenshot-8](../images/screenshot-8.png)
 
+![Screenshot-9](../images/screenshot-9.png)
+
+![Screenshot-10](../images/screenshot-10.png)
+
+![Screenshot-11](../images/screenshot-11.png)
+
 ## About the game
 
 Ancient Mind is a Zelda-inspired action-adventure game about exploring a region full of ruins where an ancient civilization once lived.
