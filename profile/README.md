@@ -141,6 +141,12 @@ Hidden throughout the world are several clues that will give the player addition
 
 ![Steam-Next-Fest-Short](../images/steam-next-fest-promo-short.png)
 
+### PixElated Festival promo images
+
+![PixElated-Adventures](../images/pixelated-adventures.png)
+
+![PixElated-Festival-Announcement](../images/pixelated-festival-announcement.png)
+
 ## Trailers
 
 * Game reveal teaser (18 December 2022) - [Youtube](https://www.youtube.com/watch?v=u82zEPHnpls)
