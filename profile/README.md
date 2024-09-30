@@ -149,9 +149,10 @@ Hidden throughout the world are several clues that will give the player addition
 
 ## Trailers
 
-* Game reveal teaser (18 December 2022) - [Youtube](https://www.youtube.com/watch?v=u82zEPHnpls)
-* First demo trailer (4 April 2023) - [Youtube](https://www.youtube.com/watch?v=MSd1eGzXrYs)
+* Release date announcement trailer (30 september 2024) - [Youtube](https://www.youtube.com/watch?v=6PKnXqyhDOw) - [Direct](../videos/release-date-announcement.mp4)
 * Steam Next Fest trailer (8 December 2023) - [Youtube](https://www.youtube.com/watch?v=luqlCHRiCNg)
+* First demo trailer (4 April 2023) - [Youtube](https://www.youtube.com/watch?v=MSd1eGzXrYs)
+* Game reveal teaser (18 December 2022) - [Youtube](https://www.youtube.com/watch?v=u82zEPHnpls)
 
 ## Download press kit
 
